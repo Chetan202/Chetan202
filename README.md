@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Jha</h1>
 <h3 align="center">I love to learn and work on creative and unique developments.</h3>
 mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif")
-<p align="left"> <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="chetan202" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="chetan202" /> </p>
 
 - 🔭 I’m currently working on [Vastra](https://github.com/Chetan202/Vastra)
 
