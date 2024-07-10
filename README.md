@@ -1,7 +1,7 @@
 [![MasterHead](https://cubettech.com/_next/image/?url=https%3A%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=3840&q=75)](https://chetanjha.io)
 <h1 align="center">Hi 👋, I'm Chetan Jha</h1>
 <h3 align="center">I love to learn and work on creative and unique developments.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif")
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ff0b2f23ace557ec285e73733c6d43a93fbdb9cab5191ebe786c8405d593c31f/68747470733a2f2f7777772e6e6969742e636f6d2f696e6469612f73697465732f64656661756c742f66696c65732f323032312d30352f466f756e646174696f6e2d696e2d4a6176612d30322e6a7067")
 <p align="left">
 
 - 🔭 I’m currently working on [Vastra](https://github.com/Chetan202/Vastra)
